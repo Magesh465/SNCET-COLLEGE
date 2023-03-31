@@ -1,0 +1,21 @@
+﻿
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration:solid;
+    color: black;
+    margin-top:50px;
+    
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration: solid;
+    color: blueviolet;
+    text-shadow: 2px 2px 3px green;
+}
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-display:auto;
+    color:darkgreen;
+}

@@ -1,0 +1,18 @@
+﻿
+    h1{
+            text-decoration:auto;
+            text-shadow:2px 2px 2px red;
+            font-style:italic;
+            color:gray;
+      }
+    h2{
+        text-decoration:solid;
+        color:blueviolet;
+        font-family:'Agency FB';
+    }
+    p,li{
+        color:coral;
+        font-family:'Arial Rounded MT';
+    }
+  
+

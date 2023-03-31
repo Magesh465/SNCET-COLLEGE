@@ -1,0 +1,21 @@
+﻿h1 {
+   
+    font-family: Algerian;
+    font-display:auto;
+    font-style:oblique;
+    text-decoration:double;
+    color:blue; 
+}
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:crimson;
+}
+p1{
+    font-family:'Agency FB';
+    color:coral;
+    font-size:18px;
+}
+p,li{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:coral;
+}

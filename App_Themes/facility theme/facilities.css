@@ -1,0 +1,18 @@
+﻿h1 {
+    font-family:'Bell MT';
+    color:red;
+    font-weight:bolder;
+}
+
+li{
+    font-family:Algerian;
+    color:maroon;
+}
+
+body {
+    background-image: url('../../college22.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    backface-visibility:visible;
+    background-attachment:fixed;
+}
